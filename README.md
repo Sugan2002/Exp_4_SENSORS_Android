@@ -1,4 +1,6 @@
-# Ex.No: 4 Develop a simple application to display the available sensor in android mobile devices using Sensor Manager in android studio.
+### Ex.No: 4
+### Date: 29.10.2022
+# <p align="center">Develop a simple application to display the available sensor in android mobile devices using Sensor Manager in android studio.</p>
 
 
 ## AIM:
